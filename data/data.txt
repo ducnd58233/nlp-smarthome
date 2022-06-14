@@ -1,0 +1,390 @@
+Trong này hơi tối nhỉ bật đèn trần lên
+Trong này sáng quá tắt bớt đèn.
+Trong này hơi lạnh nhỉ tắt máy lạnh.
+Trong này hơi lạnh nhỉ tắt quạt.
+Trong này hơi nóng nhỉ bật máy lạnh.
+Trong này hơi nóng, bật quạt.
+Không cần bật máy lạnh đâu, bật quạt được rồi.
+Bật điện phòng ngủ.
+Mở điện phòng ngủ
+Bật điện phòng khách lầu 1.
+Bật điện phòng khách tầng 1.
+Bật điện phòng khách tầng 2.
+Bật điện phòng khách lầu trệt.
+Bật điện phòng khách lầu 3.
+Bật điện phòng khách lầu 4.
+Mở điện phòng khách lầu 1.
+Mở điện phòng khách lầu 2.
+Mở điện phòng khách lầu 3.
+Mở điện phòng khách lầu 4.
+Mở điện phòng khách lầu 5.
+Mở điện phòng khách tầng 1.
+Mở điện phòng khách tầng 2.
+Mở điện phòng khách tầng 3.
+Mở điện phòng khách tầng 4.
+Mở điện phòng khách tầng 5.
+Bật điện phòng ngủ hiện tại.
+Bật điện phòng ngủ lầu 1.
+Bật điện phòng ngủ lầu 2.
+Bật điện phòng ngủ lầu 3.
+Bật điện phòng ngủ lầu 4.
+Bật điện phòng ngủ lầu 5.
+Bật điện phòng ngủ ở Hồ Chí Minh.
+Bật điện phòng ngủ ở Sài Gòn.
+Bật điện phòng ngủ ở Hà Nội.
+Bật điện phòng ngủ ở Huế.
+Bật điện phòng ngủ lầu 1 nhà của Đức ở Hồ Chí Minh.
+Bật điện phòng ngủ tầng 1 nhà của Khang ở Huế.
+Bật điện phòng ngủ tầng 1 ở Sài Gòn.
+Bật điện phòng ngủ tầng 1 ở Hà Nội.
+Bật điện phòng ngủ tầng 1 ở Huế.
+Bật điện phòng ngủ tầng 2.
+Bật điện phòng ngủ tầng 2 ở Hồ Chí Minh.
+Bật điện phòng ngủ tầng 2 ở Sài Gòn.
+Bật điện phòng ngủ lầu 2 ở Hà Nội.
+Bật điện phòng ngủ lầu 2 ở Huế.
+Bật điện phòng ngủ lầu 3.
+Bật điện phòng ngủ lầu 3 ở Hồ Chí Minh.
+Bật điện phòng ngủ lầu 3 ở Sài Gòn.
+Bật điện phòng ngủ lầu 3 ở Hà Nội.
+Bật điện phòng ngủ lầu 3 ở Huế.
+Bật điện phòng ngủ lầu 4.
+Bật điện phòng ngủ lầu 4 ở Hồ Chí Minh.
+Bật điện phòng ngủ lầu 4 ở Sài Gòn.
+Bật điện phòng ngủ lầu 4 ở Hà Nội.
+Bật điện phòng ngủ lầu 4 ở Huế.
+Bật điện phòng ngủ lầu 5.
+Bật điện phòng ngủ lầu 5 ở Hồ Chí Minh.
+Bật điện phòng ngủ lầu 5 ở Sài Gòn.
+Bật điện phòng ngủ lầu 5 ở Hà Nội.
+Bật điện phòng ngủ lầu 5 ở Huế.
+Bật điện phòng bếp.
+Bật điện phòng bếp hiện tại.
+Bật điện phòng bếp lầu 1.
+Bật điện phòng bếp lầu 2.
+Bật điện phòng bếp lầu 3.
+Bật điện phòng bếp lầu 4.
+Bật điện phòng bếp lầu 5.
+Bật điện nhà vệ sinh.
+Bật điện nhà vệ sinh lầu 1.
+Bật điện nhà vệ sinh lầu 2.
+Bật điện nhà vệ sinh lầu 3.
+Bật điện nhà vệ sinh lầu 4.
+Bật điện nhà vệ sinh lầu 5.
+Bật điện lầu 1.
+Bật điện lầu 2.
+Bật điện lầu 3.
+Bật điện lầu 4.
+Bật điện lầu 5.
+Bật tivi xem có gì nào, và tắt hộ cái điện trong bếp.
+Bật giùm cái quạt trần phòng khách lầu 1 nhà Đức ở Gò Vấp.
+Bật hết điện hành lang lầu 3 nhà Hà Nội.
+Bật các thiết bị điện phòng khách.
+Bật cái tivi 2 lầu 1 và tắt cái tivi 1 lầu 2.
+Bật cái điều hòa không khí lầu 2 nhà Hồ Chí Minh với.
+Bật bình nóng lạnh.
+Trời nay mát nên bật quạt được rồi.
+Mở rèm cửa tất cả phòng ngủ.
+Mở hết camera trừ camera số 3 nhà số 1.
+Mở camera số 1 ở nhà số 1 với.
+Mở cái đèn tầng hầm đi.
+5 phút nữa mở giùm cái tivi Samsung phòng khách lầu 2.
+Phòng hơi lạnh, tăng nhiệt độ lên tí.
+Tăng nhiệt độ máy lạnh đi nóng quá.
+Tăng âm lượng tivi.
+Cái tủ lạnh tầng trệt trong bếp đang rò điện nên đóng công ổ cắm nó lại đi.
+Đóng cầu giao của nhà ở Hồ Chí Minh.
+Giảm sáng phòng khách đi.
+Giảm âm lượng tivi đi.
+1 tiếng nữa tắt ổ cắm bình nóng lạnh
+Tắt điện phòng ngủ.
+Tắt điện phòng ngủ hiện tại.
+Tắt điện phòng ngủ lầu 1.
+Tắt điện phòng ngủ lầu 2.
+Tắt điện phòng ngủ lầu 3.
+Tắt điện phòng ngủ lầu 4.
+Tắt điện phòng ngủ lầu 5.
+Tắt điện phòng bếp.
+Tắt điện phòng bếp hiện tại.
+Tắt điện phòng bếp lầu 1.
+Tắt điện phòng bếp lầu 2.
+Tắt điện phòng bếp lầu 3.
+Tắt điện phòng bếp lầu 4.
+Tắt điện phòng bếp lầu 5.
+Tắt điện nhà vệ sinh.
+Tắt điện nhà vệ sinh lầu 1.
+Tắt điện nhà vệ sinh lầu 2.
+Tắt điện nhà vệ sinh lầu 3.
+Tắt điện nhà vệ sinh lầu 4.
+Tắt điện nhà vệ sinh lầu 5.
+Tắt điện tầng 1.
+Tắt điện tầng 2.
+Tắt điện tầng 3.
+Tắt điện tầng 4.
+Tắt điện tầng 5.
+Tắt điện lầu 1.
+Tắt điện lầu 2.
+Tắt điện lầu 3.
+Tắt điện lầu 4.
+Tắt điện lầu 5.
+Tắt điện phòng khách.
+Tắt tất cả thiết bị điện.
+Tắt hết điện phòng ngủ trừ quạt ra.
+Lạnh quá, tắt máy lạnh đi!
+Lạnh quá, tắt quạt đi!
+Nóng quá, bật máy lạnh đi!
+Nóng quá, bật quạt đi!
+Chán quá, bật tivi lên
+Tối quá, bật đèn đi!
+Quên tắt đèn phòng ngủ rồi.
+Đừng tắt quạt treo tường, tắt cái quạt trần đi.
+Đừng tắt cái đèn chùm phòng ngủ.
+Đừng mở ổ cắm tivi phòng khách nha.
+Đừng bật quạt lạnh quá.
+Đừng bật máy lạnh lạnh quá.
+Đừng bật đèn chói quá.
+Lầu 1 phòng ngủ chưa tắt đèn.
+Phòng khách lầu trệt chưa tắt tivi.
+Phòng khách lầu 1 chưa tắt tivi.
+Phòng khách lầu 2 chưa tắt tivi.
+Phòng khách lầu 3 chưa tắt tivi.
+Phòng khách lầu 4 chưa tắt tivi.
+Phòng khách lầu 5 chưa tắt tivi.
+Hãy soi sáng căn bếp ngay hôm nay.
+Rọi bếp ngày mai.
+Bật đèn trong bếp sau 10 giờ.
+Bật đèn trong bếp trong 1 ngày.
+Hãy chiếu sáng phòng ăn ngày hôm nay.
+Đừng chiếu sáng phòng ăn ngày hôm nay.
+Chiếu sáng phòng ăn vào ngày mai.
+Bật đèn trong phòng dinin sau 10 giờ.
+Bật đèn trong phòng ăn trong 1 ngày.
+Bật đèn trong phòng tắm.
+Đừng bật đèn ngay bây giờ.
+Tôi sẽ phát điên lên nếu bạn bật đèn ngay bây giờ.
+Tôi sẽ không thích nếu bạn không bật đèn ngay bây giờ.
+Đèn trong phòng khách có sáng không.
+Bạn vui lòng chiếu sáng phòng khách trong một giờ nữa giúp tôi.
+Thật tuyệt nếu bạn bật đèn cho tôi.
+Bật đèn trong bếp.
+Tắt đèn trong phòng khách sau vài giờ.
+Tắt đèn ở tầng hầm.
+Tắt đèn trong phòng ăn.
+Tôi muốn nếu bạn làm cho nó sáng hơn.
+Tôi muốn nếu bạn làm cho nó sáng hơn trong 3 phút.
+Bạn có thể làm cho nó sáng hơn ở đây trong 8 phút không?
+Bạn có thể làm cho nó tối hơn ở đây?
+Đừng làm cho nó tối hơn ở đây.
+Tôi sẽ phát điên lên nếu bạn bật đèn trong phòng ăn ngay bây giờ.
+Đèn trong phòng tắm có sáng không?
+Đèn trong phòng tắm có sáng không.
+Đèn trong phòng tắm đã bật lâu chưa?
+Đèn trong bếp đã tắt lâu chưa?
+Đèn trong phòng tắm có sáng không?
+Bạn đã bật đèn lên chưa?
+Bạn có thể vui lòng bật đèn lên được không?
+Giúp tôi bật đèn.
+Bạn có thể vui lòng bật đèn trong một phút không?
+Giúp tôi bật đèn sau một phút.
+Ở đây tối quá.
+Tôi không thể nhìn thấy gì cả.
+Làm sáng căn phòng.
+Bạn có thể vui lòng bật đèn sau vài phút được không?
+Giúp tôi bật đèn sau vài phút.
+Làm sáng căn phòng trong vài phút.
+Làm sáng căn phòng trong 5 phút.
+Tắt đèn trong bếp sau 10 phút.
+Đừng tắt đèn trong bếp sau 10 phút.
+Làm cho nó bớt tối hơn trên gác mái bây giờ.
+Bật đèn trên gác xép.
+Chiếu sáng tầng áp mái.
+Tắt đèn sau một giờ.
+Bật đèn.
+Nhấp nháy đèn cho tôi.
+Bật tủ lạnh.
+Bật lò nướng.
+Bật hệ thống âm nhạc.
+Tắt đèn trên gác xép.
+Tắt đèn ở tầng hầm.
+Tắt đèn trong bếp.
+Tắt đèn trong thư viện.
+Tắt đèn trong bếp.
+Tắt đèn trong phòng ăn.
+Tắt đèn trong hầm.
+Tắt đèn trên gác xép.
+Tắt đèn ở tầng hầm.
+Tắt đèn trong bếp.
+Tắt đèn trong thư viện.
+Tắt đèn trong bếp.
+Tắt đèn trong phòng ăn.
+Tắt đèn trong hầm.
+Tắt thứ gì đó sau 45 phút.
+Bật một cái gì đó.
+Đặt một thiết bị ngẫu nhiên trong 7 ngày.
+đèn chiếu sáng.
+Bạn có thể làm cho nó bớt tối trong phòng tắm vào ngày mai?
+Bạn có thể làm cho nó bớt tối trong nhà vệ sinh vào ngày mai?
+Bật đèn trên gác mái sau một giờ nữa.
+Bạn có thể tắt đèn trong hầm được không?
+Tôi sẽ phát điên lên nếu bạn bật đèn ngay bây giờ.
+Trời tối trong hầm.
+Nó tối trong phòng tắm.
+Nó là tối trong phòng khách.
+Trong thư viện trời tối.
+Đó là tối trong nhà vệ sinh.
+Trời tối trên gác xép.
+Trời tối trong tầng hầm.
+Bạn có thể làm cho nó bớt tối trong phòng ăn trong 5 phút không?
+Bạn có thể làm cho nó bớt tối trong hầm trong 85 phút không?
+Bạn có thể làm cho nó bớt tối trên gác mái trong 5 phút không?
+Bạn có thể làm cho nó bớt tối trong nhà bếp trong 45 phút không?
+Bạn có thể làm cho nó bớt tối trong toilet trong 15 phút không?
+Bạn có thể làm cho nó bớt tối trong thư viện trong 50 phút không?
+Bạn có thể làm cho nó bớt tối trong tầng hầm trong 5 phút không?
+Bạn có thể làm cho nó sáng hơn trong phòng ăn sau 15 giờ không?
+Bạn có thể làm cho nó sáng hơn trong hầm trong 50 giờ không?
+Bạn có thể làm cho nó sáng hơn trên gác mái trong một giờ nữa không?
+Bạn có thể làm cho nó trở nên tươi sáng hơn trong nhà bếp trong 5 ngày?
+Bạn có thể làm cho nó sáng hơn trong nhà vệ sinh trong 5 tuần?
+Bạn có thể làm cho nó sáng hơn trong thư viện trong 2 phút không?
+Bạn có thể làm cho nó sáng hơn ở tầng hầm trong 5 phút không?
+Bạn có thể làm cho nó bớt sáng hơn trong phòng ăn sau 15 giờ không?
+Bạn có thể làm cho nó bớt sáng hơn trong hầm trong 50 giờ không?
+Bạn có thể làm cho nó bớt sáng hơn trên gác mái trong một giờ không?
+Bạn có thể làm cho nó bớt sáng hơn trong bếp trong 5 ngày không?
+Bạn có thể làm cho nó bớt sáng hơn trong nhà vệ sinh trong 5 tuần không?
+Bạn có thể làm cho nó bớt sáng hơn trong thư viện trong 2 phút không?
+Bạn có thể làm cho nó bớt sáng hơn ở tầng hầm trong 5 phút không?
+Đừng tắt đèn.
+Bật đèn khi tôi về đến nhà.
+Bật đèn khi bên ngoài trời tối.
+Tắt đèn khi bên ngoài có ánh sáng nhẹ.
+Có bất kỳ chuyển động nào từ tháng 9 đến tháng 10 không?
+Có phải camera trong phòng tắm vào ngày hôm qua không?
+Có phải là camera trong nhà vệ sinh vào ngày hôm qua?
+Có chuyển động không?
+Có chuyển động với trình xem chuyển động không?
+Bạn có thể cho tôi biết nếu có bất kỳ chuyển động nào trên máy quay bên ngoài?
+Có bất kỳ chuyển động nào trên camera bên ngoài không?
+Có chuyển động trên camera trong nhà bếp ngày hôm qua không?
+Có chuyển động trên máy ảnh trên gác mái ngày hôm qua không?
+Có chuyển động trên camera trong phòng tắm ngày hôm qua không?
+Có chuyển động trên camera ở sân sau ngày hôm qua không?
+Có chuyển động trên camera trong phòng khách ngày hôm qua không?
+Tôi muốn rằng bạn sẽ cho tôi biết nếu camera trong phòng khách đang bật.
+Nơi nào có người lạ đêm nay ở nhà tôi?
+Bạn có thấy động tĩnh gì tối nay không?
+Có điều gì đó kỳ lạ bên ngoài?
+Có điều gì tôi nên biết về chuyển động này không?
+Bạn nhìn thấy gì trên camera?
+Có bao nhiêu máy ảnh?
+Tất cả các camera được lắp đặt ở đâu?
+Có nhiều chuyển động trên camera gần đây không?
+Máy ảnh hiện đang quay là gì?
+Ngày nay con người có xuất hiện trên camera không?
+Bạn có thể cho tôi biết nếu có chuyển động từ tháng 9 đến tháng 10 không?
+Máy ảnh đã bật chưa?
+Mở máy quay.
+Máy ảnh ghi và xem.
+Bạn có thể cho tôi một số thông tin về camera ở sân sau được không?
+Hôm nay có chuyển động nào trên máy quay không?
+Có một người bên ngoài hôm nay?
+Có bất kỳ chuyển động nào trên máy quay ngày hôm qua không?
+Có một người bên ngoài ngày hôm qua?
+Có bất kỳ chuyển động nào trong giờ qua camera bên ngoài không?
+Có bất kỳ chuyển động nào ở sân sau ngày hôm qua không?
+Hôm nay có hoạt động bất thường trên camera ở sân sau không?
+Bạn có thể bật hệ thống sưởi trong phòng tắm trong một giờ nữa không?
+Bạn có thể bật hệ thống sưởi trên gác mái trong một giờ nữa không?
+Bạn có thể bật hệ thống sưởi trong phòng ăn trong một giờ nữa không?
+Bạn có thể bật hệ thống sưởi ở tầng hầm trong một giờ nữa không?
+Bạn có thể bật hệ thống sưởi trong thư viện trong một giờ nữa không?
+Bạn có thể bật hệ thống sưởi trong bếp trong một giờ nữa không?
+Bạn có thể bật hệ thống sưởi trong nhà vệ sinh trong một giờ nữa không?
+Trong phòng tắm hơi lạnh.
+Trên gác xép hơi lạnh.
+Trong phòng ăn hơi lạnh.
+Ở tầng hầm hơi lạnh.
+Trong thư viện hơi lạnh.
+Trong bếp hơi lạnh.
+Trong nhà vệ sinh hơi lạnh.
+Đừng bật hệ thống sưởi bây giờ.
+Bạn có thể giảm độ nóng ở tầng hầm trong một giờ không?
+Bạn có thể giảm độ nóng trong hầm trong một giờ không?
+Bạn có thể giảm nhiệt độ trong nhà bếp trong một giờ không?
+Bạn có thể giảm độ nóng trong nhà vệ sinh trong một giờ không?
+Bạn có thể hạ nhiệt độ sưởi trên gác mái trong một giờ không?
+Bạn có thể giảm nhiệt độ trong nhà bếp trong một giờ không?
+Bạn có thể giảm độ nóng trong phòng ăn trong một giờ không?
+Trời lạnh trong phòng tắm.
+Trời lạnh trên gác xép.
+Trời lạnh trong phòng ăn.
+Trời lạnh ở tầng hầm.
+Trong thư viện thật lạnh.
+Trời lạnh trong bếp.
+Nó lạnh trong nhà vệ sinh.
+Trời nóng trong phòng tắm.
+Trời nóng trên gác xép.
+Trời nóng trong phòng ăn.
+Trời nóng ở tầng hầm.
+Nó đang nóng trong thư viện.
+Nó đang nóng trong nhà bếp.
+Nó nóng trong nhà vệ sinh.
+Bạn có thể bật hệ thống sưởi trong bếp trong 10 phút nữa giúp tôi được không?
+Bạn có thể bật hệ thống sưởi trong phòng khách trong 11 phút nữa giúp tôi được không?
+Bạn có thể bật hệ thống sưởi trong phòng khách trong 5 phút nữa giúp tôi được không?
+Bạn có thể bật hệ thống sưởi trong phòng khách trong một phút giúp tôi được không?
+Bạn có thể bật hệ thống sưởi trong phòng khách trong 2 phút nữa giúp tôi được không?
+Bạn có thể bật hệ thống sưởi trong phòng khách trong 1 phút nữa giúp tôi được không?
+Bạn có thể bật hệ thống sưởi trong phòng khách trong một phút giúp tôi được không?
+Bạn có thể bật hệ thống sưởi trong thư viện trong 11 phút nữa giúp tôi được không?
+Bạn có thể bật hệ thống sưởi trong thư viện trong 5 phút nữa giúp tôi được không?
+Tắt hệ thống sưởi trong phòng tắm sau một giờ.
+Đừng tắt hệ thống sưởi trong một giờ.
+Làm cho nó bớt lạnh hơn trong hầm rượu.
+Làm cho nó lạnh hơn trong tầng hầm.
+Bạn có thể bật hệ thống sưởi trong phòng tắm cao hơn không?
+Mặt trời chói mắt tôi trong nhà vệ sinh.
+Tắt cửa chớp.
+Vui lòng mở cửa chớp trong một phút cho tôi.
+Hãy để cửa sập ở tầng hầm trong một giờ nữa.
+Đóng cửa chớp trong nhà bếp.
+Đóng cửa chớp trong một phút.
+Nó quá nhẹ trong thư viện.
+Hãy tắt cửa chớp trong tầng hầm khi bên ngoài có ánh sáng nhẹ.
+Mở cửa chớp trong thư viện khi bên ngoài trời sáng.
+Nó quá sáng trong nhà bếp..
+Đừng làm bất cứ điều gì khi trời nóng trong bếp.
+Bạn có thể mở cửa nhà để xe khi tôi về nhà cho tôi được không?
+Hãy để cửa nhà để xe xuống ngay bây giờ.
+Bạn có thể mở cửa nhà để xe trong một giờ nữa không?
+Vui lòng đóng cửa ga ra trong ngày cho tôi.
+Đóng cửa nhà để xe trong một giờ nữa cho tôi.
+Bạn có thể mở cửa nhà để xe vào ngày mai?
+Bạn có thể mở cửa nhà để xe xuống ngày hôm qua?
+Bạn có thể mở cửa nhà để xe vào ngày mai?
+Bạn có thể mở cửa nhà để xe vào ngày hôm qua?
+Đóng cửa ga ra trong một phút cho tôi.
+Đóng cửa nhà để xe trong một ngày cho tôi.
+Mở cửa ga ra trong một phút cho tôi.
+Mở cửa ga ra trong một ngày cho tôi.
+Hãy chắc chắn rằng xe của tôi có thể ra khỏi nhà để xe.
+Bạn sẽ đảm bảo rằng xe của tôi không va vào cửa nhà để xe chứ?
+Đóng cửa ga ra trong 21 phút nữa cho tôi.
+Tắt cửa ga ra trong 15 phút nữa cho tôi.
+Đóng cửa ga ra trong vòng mười bốn phút nữa cho tôi.
+Đóng cửa ga ra trong vòng mười sáu phút cho tôi.
+Đừng đóng cửa ga ra trong 43 phút nữa cho tôi.
+Đừng đóng cửa ga ra trong 112 phút nữa cho tôi.
+Đừng đóng cửa ga ra trong vòng mười tám phút nữa đối với tôi.
+Đừng đóng cửa ga ra trong vòng mười sáu phút nữa đối với tôi.
+Bạn có thể đừng làm gì đó với cửa nhà để xe được không?
+Bạn có thể đừng để cửa nhà để xe xuống được không?
+Đóng cửa nhà để xe khi tôi về đến nhà.
+Đóng điện cửa nhà để xe.
+Tắt cửa nhà để xe sau một phút.
+Tắt cửa nhà để xe sau một giờ nữa.
+Tắt cửa nhà để xe sau sáu ngày.
+
+
+
